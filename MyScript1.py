@@ -1,1 +1,1 @@
-import scipy
+import healpy
